@@ -1,6 +1,6 @@
 <h1>Pedro Messias</h1> <p> <a href="mailto:pemlucena@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6" /></a> <a href="https://www.linkedin.com/in/pedro-messias-2793702a6/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" /></a> <a href="https://github.com/PedroMessiasxD"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=FF00F6" /></a> </p> <h1> Hello World! <img src="./src/earth.gif" alt="Terra girando" width="40" height="40" /> </h1> <img align="right" alt="Edgerunners" height="190px" src="./src/edgerunners.gif">
 
-Olá! Me chamo **Pedro Messias**, tenho 24 anos e sou natural da Bahia. Atualmente curso **Ciência e Tecnologia na UFBA**.
+Olá! Me chamo **Pedro Messias**, tenho 24 anos. Atualmente curso **Ciência e Tecnologia na UFBA**.
 
 Gosto de entender como as coisas funcionam por dentro e de transformar ideias em código que resolve problemas reais.
 
